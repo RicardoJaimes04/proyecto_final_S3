@@ -1,4 +1,4 @@
-# Proyecto S3 · Guía de ejecución paso a paso
+# Proyecto S3 · Guía de https://github.com/alejandroria94/proyecto-s3
 
 Este documento explica cómo ejecutar el proyecto completo, tanto **en local** como **con Docker Compose**.
 
